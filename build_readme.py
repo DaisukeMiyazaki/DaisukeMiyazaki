@@ -7,6 +7,7 @@ from xml.etree import ElementTree
 ROOT = pathlib.Path(__file__).parent.resolve()
 
 ATOM_FEED_URL = "https://mdaisuke.net/atom.xml"
+TIL_FEED_URL = "https://raw.githubusercontent.com/DaisukeMiyazaki/TIL/main/feed.xml"
 GITHUB_USER = "DaisukeMiyazaki"
 GITHUB_REPOS_URL = f"https://api.github.com/users/{GITHUB_USER}/repos?sort=updated&per_page=5&type=owner"
 
@@ -25,6 +26,22 @@ def fetch_blog_posts(n=5):
         updated = entry.find("atom:updated", ns).text[:10]
         posts.append({"title": title, "url": link, "date": updated})
     return posts
+
+
+def fetch_til_entries(n=5):
+    req = urllib.request.Request(TIL_FEED_URL)
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        xml = resp.read()
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    root = ElementTree.fromstring(xml)
+    entries = root.findall("atom:entry", ns)[:n]
+    items = []
+    for entry in entries:
+        title = entry.find("atom:title", ns).text
+        link = entry.find("atom:link", ns).attrib["href"]
+        updated = entry.find("atom:updated", ns).text[:10]
+        items.append({"title": title, "url": link, "date": updated})
+    return items
 
 
 def fetch_recent_repos(n=5):
@@ -65,6 +82,13 @@ if __name__ == "__main__":
         f"* [{p['title']}]({p['url']}) - {p['date']}" for p in posts
     )
     readme = replace_section(readme, "blog", posts_md)
+
+    # TIL
+    til_entries = fetch_til_entries()
+    til_md = "\n".join(
+        f"* [{t['title']}]({t['url']}) - {t['date']}" for t in til_entries
+    )
+    readme = replace_section(readme, "til", til_md)
 
     # Recent repos
     repos = fetch_recent_repos()
