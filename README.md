@@ -13,14 +13,15 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent TIL
 <!-- til starts -->
+* [speedtest-cli でターミナルからネットワーク速度を計測する](https://github.com/DaisukeMiyazaki/TIL/blob/main/cli/speedtest-cli.md) - 2026-03-16
 * [cmux を導入して作業環境を2アプリに集約する](https://github.com/DaisukeMiyazaki/TIL/blob/main/tools/cmux.md) - 2026-03-14
 <!-- til ends -->
 
 ### Recent Repositories
 <!-- repos starts -->
+* [TIL](https://github.com/DaisukeMiyazaki/TIL) - 
 * [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
-* [TIL](https://github.com/DaisukeMiyazaki/TIL) - 
 * [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
 <!-- repos ends -->
 
