@@ -23,7 +23,6 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 * [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
 * [obsidian-edit-count](https://github.com/DaisukeMiyazaki/obsidian-edit-count) - 
 * [TIL](https://github.com/DaisukeMiyazaki/TIL) - 
-* [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 <!-- repos ends -->
 
 <sub>This README is automatically updated by [GitHub Actions](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki/actions).</sub>
