@@ -19,8 +19,8 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Repositories
 <!-- repos starts -->
-* [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 * [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
+* [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 * [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
 * [obsidian-edit-count](https://github.com/DaisukeMiyazaki/obsidian-edit-count) - 
 <!-- repos ends -->
