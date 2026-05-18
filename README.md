@@ -13,16 +13,17 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent TIL
 <!-- til starts -->
+* [Claude Code スキルを cron で毎日走らせて自分宛に RSS 要約メールを送る](https://github.com/DaisukeMiyazaki/TIL/blob/main/claude-code/skill-as-daily-cron.md) - 2026-05-18
 * [speedtest-cli でターミナルからネットワーク速度を計測する](https://github.com/DaisukeMiyazaki/TIL/blob/main/cli/speedtest-cli.md) - 2026-03-16
 * [cmux を導入して作業環境を2アプリに集約する](https://github.com/DaisukeMiyazaki/TIL/blob/main/tools/cmux.md) - 2026-03-14
 <!-- til ends -->
 
 ### Recent Repositories
 <!-- repos starts -->
+* [TIL](https://github.com/DaisukeMiyazaki/TIL) - 
 * [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 * [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
-* [obsidian-edit-count](https://github.com/DaisukeMiyazaki/obsidian-edit-count) - 
 <!-- repos ends -->
 
 <sub>This README is automatically updated by [GitHub Actions](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki/actions).</sub>
