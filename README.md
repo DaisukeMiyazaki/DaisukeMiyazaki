@@ -4,11 +4,11 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Blog Posts
 <!-- blog starts -->
+* [The Indentation Project, Part 1: Designing a 6-Tatami-Mat Room That Has to Serve Four Uses](https://mdaisuke.net/en/2026/04/09/The-Indentation-Project-Part-1/) - 2026-04-09
+* [例の凸凹 Part 1：6畳を四つの部屋にする設計とフレーム](https://mdaisuke.net/jp/2026/04/09/The-Indentation-Project-Part-1/) - 2026-04-09
 * [I Built an Obsidian Plugin to Surface My Most-Edited Notes](https://mdaisuke.net/en/2026/03/20/obsidian-edit-count/) - 2026-03-20
 * [よく編集するノートが一目でわかるObsidianプラグインを作った](https://mdaisuke.net/jp/2026/03/20/obsidian-edit-count/) - 2026-03-20
 * [Leather Loose-Leaf Binder](https://mdaisuke.net/en/2026/01/04/leather-looseleaf/) - 2026-01-04
-* [革のルーズリーフバインダー](https://mdaisuke.net/jp/2026/01/04/leather-looseleaf/) - 2026-01-04
-* [Calendar Auto Route Calculator: Automatically Add Travel Time to Google Calendar](https://mdaisuke.net/en/2025/12/22/calendar-auto-route/) - 2025-12-22
 <!-- blog ends -->
 
 ### Recent TIL
@@ -21,10 +21,10 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Repositories
 <!-- repos starts -->
+* [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
 * [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [TIL](https://github.com/DaisukeMiyazaki/TIL) - 
 * [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
-* [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
 <!-- repos ends -->
 
 <sub>This README is automatically updated by [GitHub Actions](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki/actions).</sub>
