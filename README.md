@@ -4,11 +4,11 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Blog Posts
 <!-- blog starts -->
+* [I Built an Obsidian Plugin to Tidy Up Notes That Once Mattered but Gathered Dust](https://mdaisuke.net/en/2026/07/13/obsidian-katazuke/) - 2026-07-13
+* [大事と思ってたけれど気づいたら埃をかぶっていたノートを片付けるObsidianプラグインを作った](https://mdaisuke.net/jp/2026/07/13/obsidian-katazuke/) - 2026-07-13
 * [The Notes You Can No Longer Find, and Two Kinds of Work](https://mdaisuke.net/en/2026/07/03/refactor-obsidian/) - 2026-07-03
 * [増えすぎて探せないノートと二種類の仕事](https://mdaisuke.net/jp/2026/07/03/refactor-obsidian/) - 2026-07-03
 * [I Want to Listen to My Unread Papers, Not Read Them — and the Auto-Podcast Wasn’t Enough](https://mdaisuke.net/en/2026/06/25/papers-into-podcasts/) - 2026-06-25
-* [積読の論文は読むよりまず聞きたいが、自動ポッドキャストでは物足りなかった](https://mdaisuke.net/jp/2026/06/25/papers-into-podcasts/) - 2026-06-25
-* [The Indentation Project, Part 1: Designing a 6-Tatami-Mat Room That Has to Serve Four Uses](https://mdaisuke.net/en/2026/04/09/The-Indentation-Project-Part-1/) - 2026-04-09
 <!-- blog ends -->
 
 ### Recent TIL
@@ -22,9 +22,9 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Repositories
 <!-- repos starts -->
+* [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
 * [katazuke](https://github.com/DaisukeMiyazaki/katazuke) - 
 * [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
-* [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 <!-- repos ends -->
 
 <sub>This README is automatically updated by [GitHub Actions](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki/actions).</sub>
