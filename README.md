@@ -4,11 +4,11 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Blog Posts
 <!-- blog starts -->
+* [ソースコードをagentが書く前提で、エンジニアはソースをどう体系化して管理すれば十分に長続きする理解を委任しないままソフトウェアを運用できるか？](https://mdaisuke.net/jp/2026/08/25/%E7%90%86%E8%A7%A3%E3%81%AE%E4%BD%93%E7%B3%BB%E5%8C%96/) - 2026-08-25
 * [I Built an Obsidian Plugin to Tidy Up Notes That Once Mattered but Gathered Dust](https://mdaisuke.net/en/2026/07/13/obsidian-katazuke/) - 2026-07-13
 * [大事でも気づいたら埃をかぶっていたノートを片付けるObsidianプラグインを作った](https://mdaisuke.net/jp/2026/07/13/obsidian-katazuke/) - 2026-07-13
 * [The Notes You Can No Longer Find, and Two Kinds of Work](https://mdaisuke.net/en/2026/07/03/refactor-obsidian/) - 2026-07-03
 * [増えすぎて探せないノートと二種類の仕事](https://mdaisuke.net/jp/2026/07/03/refactor-obsidian/) - 2026-07-03
-* [I Want to Listen to My Unread Papers, Not Read Them — and the Auto-Podcast Wasn’t Enough](https://mdaisuke.net/en/2026/06/25/papers-into-podcasts/) - 2026-06-25
 <!-- blog ends -->
 
 ### Recent TIL
@@ -22,8 +22,8 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Repositories
 <!-- repos starts -->
-* [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
+* [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 * [obsidian-blog-bridge](https://github.com/DaisukeMiyazaki/obsidian-blog-bridge) - Obsidian plugin: is_published のノートをブログ用 packet として書き出す
 * [hikidashi-site](https://github.com/DaisukeMiyazaki/hikidashi-site) - 
