@@ -26,7 +26,6 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 * [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 * [obsidian-blog-bridge](https://github.com/DaisukeMiyazaki/obsidian-blog-bridge) - Obsidian plugin: is_published のノートをブログ用 packet として書き出す
-* [hikidashi-site](https://github.com/DaisukeMiyazaki/hikidashi-site) - 
 <!-- repos ends -->
 
 <sub>This README is automatically updated by [GitHub Actions](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki/actions).</sub>
