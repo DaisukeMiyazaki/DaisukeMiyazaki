@@ -4,11 +4,11 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Blog Posts
 <!-- blog starts -->
-* [ソースコードをagentが書く前提で、エンジニアはソースをどう体系化して管理すれば十分に長続きする理解を委任しないままソフトウェアを運用できるか？](https://mdaisuke.net/jp/2026/08/25/%E7%90%86%E8%A7%A3%E3%81%AE%E4%BD%93%E7%B3%BB%E5%8C%96/) - 2026-08-25
-* [I Built an Obsidian Plugin to Tidy Up Notes That Once Mattered but Gathered Dust](https://mdaisuke.net/en/2026/07/13/obsidian-katazuke/) - 2026-07-13
-* [大事でも気づいたら埃をかぶっていたノートを片付けるObsidianプラグインを作った](https://mdaisuke.net/jp/2026/07/13/obsidian-katazuke/) - 2026-07-13
-* [The Notes You Can No Longer Find, and Two Kinds of Work](https://mdaisuke.net/en/2026/07/03/refactor-obsidian/) - 2026-07-03
-* [増えすぎて探せないノートと二種類の仕事](https://mdaisuke.net/jp/2026/07/03/refactor-obsidian/) - 2026-07-03
+* [自分の関心とニーズが乖離している](https://mdaisuke.net/jp/notes/intended-writing-and-needs-in-marketing-differ/) - 2026-09-27
+* [LLMは行間が読めないが網羅性がある](https://mdaisuke.net/jp/notes/llm-is-meticulous-but-cant-read-lines/) - 2026-09-22
+* [LLMの端的な出力はproviderの利益に反する](https://mdaisuke.net/jp/notes/2026-09-22-0820-llm-provider-generation-too-long/) - 2026-09-22
+* [Hide properties in notes in Canvas view](https://mdaisuke.net/jp/notes/hide-properties-in-notes-in-canvas-view/) - 2026-09-17
+* [obsidianでノートを貯めても思考が深まらない悩み](https://mdaisuke.net/jp/notes/obsidian-not-deepening-thought/) - 2026-09-15
 <!-- blog ends -->
 
 ### Recent TIL
@@ -22,8 +22,8 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Repositories
 <!-- repos starts -->
-* [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
+* [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 * [obsidian-blog-bridge](https://github.com/DaisukeMiyazaki/obsidian-blog-bridge) - Obsidian plugin: is_published のノートをブログ用 packet として書き出す
 <!-- repos ends -->
