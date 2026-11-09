@@ -4,11 +4,11 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Blog Posts
 <!-- blog starts -->
+* [obsidianとレポジトリと行間](https://mdaisuke.net/jp/notes/obsidian-between-lines/) - 2026-11-09
 * [便利さは快楽とつながるが、幸福とはつながらない。そのため世の中に便利さが増えればそれだけ落ち着きが失われ、人々は幸福から遠ざかる](https://mdaisuke.net/jp/notes/convinience-and-happiness/) - 2026-10-12
 * [自分の関心とニーズが乖離している](https://mdaisuke.net/jp/notes/intended-writing-and-needs-in-marketing-differ/) - 2026-09-27
 * [LLMは行間が読めないが網羅性がある](https://mdaisuke.net/jp/notes/llm-is-meticulous-but-cant-read-lines/) - 2026-09-22
 * [LLMの端的な出力はproviderの利益に反する](https://mdaisuke.net/jp/notes/2026-09-22-0820-llm-provider-generation-too-long/) - 2026-09-22
-* [Hide properties in notes in Canvas view](https://mdaisuke.net/jp/notes/hide-properties-in-notes-in-canvas-view/) - 2026-09-17
 <!-- blog ends -->
 
 ### Recent TIL
@@ -22,8 +22,8 @@ Freelance engineer based in Tokyo. Backend development & engineering management.
 
 ### Recent Repositories
 <!-- repos starts -->
-* [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [DaisukeMiyazaki.github.io](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki.github.io) - This is my blog
+* [DaisukeMiyazaki](https://github.com/DaisukeMiyazaki/DaisukeMiyazaki) - 
 * [sanpou-site](https://github.com/DaisukeMiyazaki/sanpou-site) - 
 * [obsidian-blog-bridge](https://github.com/DaisukeMiyazaki/obsidian-blog-bridge) - Obsidian plugin: is_published のノートをブログ用 packet として書き出す
 <!-- repos ends -->
